@@ -8,5 +8,6 @@ int main()
         printf("Cifra se afla in multimea {1,6,4,7}");
     else 
         printf("Cifra nu se afla in multime");
+    return 0;
 
 }
